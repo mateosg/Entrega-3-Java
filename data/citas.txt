@@ -1,0 +1,51 @@
+idCita, nombrePaciente, fechaCita, horaInicio, duracionEstimada, salaOperaciones, estadoCita, consentimientoInformado, procedimiento, equipoMedico
+1, Maria Garcia, 2023-05-02, 08:00, 2, 101, PROGRAMADA, Sí, Cirugía de cataratas, Dr. Perez; Dra. Gomez; Enfermera Sanchez
+2, Juan Rodriguez, 2023-05-03, 09:30, 1, 102, PROGRAMADA, Sí, Extracción de muela, Dr. Martinez; Asistente Rodriguez
+3, Ana Hernandez, 2023-05-05, 10:00, 3, 103, PROGRAMADA, No, Cirugía de corazón, Dr. Sanchez; Dra. Rodriguez; Enfermera Lopez
+4, Luis Perez, 2023-05-07, 11:30, 2.5, 104, EN_CURSO, Sí, Transplante de hígado, Dr. Gomez; Dra. Hernandez; Anestesiólogo Diaz
+5, Pedro Martinez, 2023-05-08, 13:00, 1.5, 105, EN_CURSO, Sí, Cirugía de oído, Dr. Rodriguez; Asistente Gomez
+6, Andrea Jimenez, 2023-05-09, 15:00, 4, 106, COMPLETADA, Sí, Cirugía de rodilla, Dr. Hernandez; Dra. Gomez; Enfermera Martinez
+7, Daniel Flores, 2023-05-10, 07:30, 1, 107, COMPLETADA, Sí, Extracción de muela, Dr. Rodriguez; Asistente Martinez
+8, Maria Gomez, 2023-05-12, 10:00, 3, 108, CANCELADA, Sí, Cirugía de vesícula, Dr. Hernandez; Dra. Rodriguez; Anestesiólogo Perez
+9, Jorge Torres, 2023-05-15, 08:30, 2.5, 109, PROGRAMADA, Sí, Transplante de riñón, Dr. Perez; Dra. Gomez; Enfermera Lopez
+10, Laura Vega, 2023-05-16, 12:00, 1, 110, PROGRAMADA, No, Extracción de lunar, Dr. Rodriguez; Asistente Martinez
+11, Oscar Mendoza, 2023-05-17, 11:00, 3, 111, PROGRAMADA, Sí, Cirugía de columna, Dr. Hernandez; Dra. Gomez; Anestesiólogo Perez
+12, Alejandra Ruiz, 2023-05-20, 08:00, 1.5, 112, PROGRAMADA, No, Extracción de muela, Dr. Rodriguez; Asistente Martinez
+13, Francisco Lopez, 2023-05-21, 10:30, 2, 113, EN_CURSO, Sí, Cirugía de hernia, Dr. Sanchez; Dra. Rodriguez; Enfermera Martinez
+14, Sofia Perez, 2023-05-22, 13:00, 2, 114, EN_CURSO, Sí, Cirugía de cataratas, Dr. Martinez; Dra. Gomez; Enfermera Sanchez
+15, Ricardo Hernandez, 2023-05-23, 15:30, 1.5, 115, EN_CURSO, Sí, Extracción de muela, Dr. Rodriguez; Asistente Martinez
+16, Paola Garcia, 2023-05-25, 09:00, 2.5, 116, CANCELADA, No, Cirugía de apéndice, Dr. Sanchez; Dra. Hernandez; Anestesiólogo Perez
+17, Daniel Martinez, 2023-05-28, 10:00, 1, 117, COMPLETADA, Sí, Limpieza dental, Dr. Rodriguez; Asistente Gomez
+18, Ana Sanchez, 2023-05-29, 12:00, 1.5, 118, PROGRAMADA, Sí, Extracción de muela, Dr. Martinez; Asistente Rodriguez
+19, Jose Ramirez, 2023-05-30, 14:00, 2, 119, PROGRAMADA, No, Implante dental, Dr. Gomez; Asistente Martinez
+20, Carmen Gonzalez, 2023-05-31, 08:30, 3, 120, PROGRAMADA, Sí, Cirugía de corazón, Dr. Sanchez; Dra. Rodriguez; Enfermera Lopez
+21, Juan Carlos Ortiz, 2023-06-03, 11:00, 2, 121, PROGRAMADA, Sí, Cirugía de vesícula, Dr. Hernandez; Dra. Gomez; Anestesiólogo Perez
+22, Estefania Castro, 2023-06-05, 09:30, 1.5, 122, PROGRAMADA, Sí, Extracción de muela, Dr. Rodriguez; Asistente Gomez
+23, Marco Antonio Reyes, 2023-06-06, 13:00, 3, 123, EN_CURSO, Sí, Cirugía de oído, Dr. Martinez; Asistente Rodriguez
+24, Diana Patricia Vargas, 2023-06-07, 15:00, 2.5, 124, COMPLETADA, Sí, Cirugía de cataratas, Dr. Perez; Dra. Gomez; Enfermera Sanchez
+25, Rafaela Sánchez, 2023-06-09, 07:30, 1, 125, PROGRAMADA, Sí, Limpieza dental, Dr. Rodriguez; Asistente Martinez
+26, David Jiménez, 2023-06-11, 11:00, 1.5, 126, PROGRAMADA, No, Extracción de muela, Dr. Hernandez; Asistente Gomez
+27, Alejandra Torres, 2023-06-13, 10:00, 2, 127, EN_CURSO, Sí, Cirugía de hernia, Dr. Martinez; Dra. Rodriguez; Enfermera Martinez
+28, Miguel Ángel García, 2023-06-15, 12:00, 1.5, 128, CANCELADA, No, Extracción de muela, Dr. Rodriguez; Asistente Martinez
+29, Lucía González, 2023-06-17, 14:00, 2.5, 129, PROGRAMADA, Sí, Cirugía de columna, Dr. Hernandez; Dra. Gomez; Anestesiólogo Perez
+30, Eduardo Rodríguez, 2023-06-19, 08:00, 3, 130, PROGRAMADA, Sí, Cirugía de corazón, Dr. Sanchez; Dra. Rodriguez; Enfermera Lopez
+31, Paola Fernández, 2023-06-22, 09:30, 1, 131, EN_CURSO, Sí, Extracción de muela, Dr. Martinez; Asistente Rodriguez
+32, Francisco Ramírez, 2023-06-23, 11:00, 1.5, 132, PROGRAMADA, Sí, Implante dental, Dr. Gomez; Asistente Martinez
+33, Daniela Hernández, 2023-06-24, 13:00, 2, 133, PROGRAMADA, No, Cirugía de apéndice, Dr. Hernandez; Dra. Gomez; Anestesiólogo Perez
+34, Carla Aguilar, 2023-06-26, 15:00, 2.5, 134, EN_CURSO, Sí, Cirugía de oído, Dr. Martinez; Asistente Rodriguez
+35, José Luis González, 2023-06-27, 07:30, 1, 135, PROGRAMADA, Sí, Limpieza dental, Dr. Rodriguez; Asistente Martinez
+36, Carlos Rivera, 2023-06-10, 09:00, 2, 136, PROGRAMADA, Sí, Cirugía de cadera, Dr. Hernandez; Dra. Gomez; Enfermera Martinez
+37, Gabriela Ramirez, 2023-06-11, 12:00, 1, 137, PROGRAMADA, No, Extracción de muela, Dr. Rodriguez; Asistente Martinez
+38, Diego Jimenez, 2023-06-12, 15:00, 1.5, 138, PROGRAMADA, Sí, Limpieza dental, Dr. Martinez; Asistente Gomez
+39, Andrea Torres, 2023-06-15, 10:00, 3, 139, PROGRAMADA, Sí, Cirugía de oído, Dr. Rodriguez; Dra. Hernandez; Anestesiólogo Diaz
+40, Laura Martinez, 2023-06-16, 08:30, 2.5, 140, PROGRAMADA, No, Cirugía de hernia, Dr. Perez; Dra. Gomez; Enfermera Martinez
+41, Ricardo Chavez, 2023-06-17, 11:00, 1, 141, PROGRAMADA, Sí, Extracción de muela, Dr. Rodriguez; Asistente Martinez
+42, Ana Maria Gutierrez, 2023-06-20, 13:00, 2, 142, EN_CURSO, Sí, Cirugía de rodilla, Dr. Hernandez; Dra. Rodriguez; Enfermera Lopez
+43, Oscar Garcia, 2023-06-21, 15:30, 1.5, 143, EN_CURSO, Sí, Extracción de muela, Dr. Rodriguez; Asistente Martinez
+44, Lucia Torres, 2023-06-22, 09:00, 2, 144, CANCELADA, Sí, Transplante de corazón, Dr. Sanchez; Dra. Gomez; Anestesiólogo Perez
+45, Eduardo Perez, 2023-06-23, 12:00, 1, 145, COMPLETADA, Sí, Limpieza dental, Dr. Martinez; Asistente Gomez
+46, Sofia Castro, 2023-06-24, 15:00, 1.5, 146, PROGRAMADA, No, Extracción de muela, Dr. Rodriguez; Asistente Martinez
+47, Juan Pablo Rodriguez, 2023-06-27, 10:00, 3, 147, PROGRAMADA, Sí, Cirugía de columna, Dr. Hernandez; Dra. Gomez; Anestesiólogo Perez
+48, Estefania Herrera, 2023-06-28, 08:30, 2.5, 148, PROGRAMADA, Sí, Cirugía de cataratas, Dr. Perez; Dra. Rodriguez; Enfermera Lopez
+49, Roberto Gonzalez, 2023-06-29, 11:00, 1, 149, PROGRAMADA, Sí, Extracción de muela, Dr. Rodriguez; Asistente Martinez
+50, Andrea Aguilar, 2023-06-30, 13:00, 2, 150, PROGRAMADA, No, Implante dental, Dr. Gomez; Asistente Martinez
